@@ -8,7 +8,7 @@ public class PracticeProblem_3 {
 
 			int i =0;
 			int num=100;
-				System.out.println("List of odd number "+num+":");
+				System.out.println("List of first Hundred odd numbers "+num+":");
 
 				for (i=1; i<=num; i++)
 				{
